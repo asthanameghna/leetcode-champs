@@ -49,9 +49,9 @@ Each solution contains:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       |        |
-| Medium     |        |
-| Hard       |        |
+| Easy       |   16   |
+| Medium     |   11   |
+| Hard       |   1    |
 
 Total Problems Solved: **0**
 
@@ -124,6 +124,5 @@ class Solution:
 
 ---
 
-## LeetCode Profile
-
+## LeetCode Profile 
 🔗[HERE](https://leetcode.com/u/3EH6PSW9H2/)
