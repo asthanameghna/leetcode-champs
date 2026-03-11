@@ -1,23 +1,23 @@
-LeetCode Solutions
+# LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems as part of my preparation for software engineering and machine learning interviews.
+This repository contains my solutions to **LeetCode problems** as part of my preparation for **software engineering and machine learning interviews**.
 
 The objective is to build strong fundamentals in:
 
-Data Structures
+- Data Structures
+- Algorithms
+- Problem Solving
+- Time and Space Complexity Analysis
 
-Algorithms
+All solutions are implemented in **Python**.
 
-Problem Solving
+---
 
-Time and Space Complexity Analysis
+# Repository Structure
 
-All solutions are implemented in Python.
+Problems are grouped by **algorithmic pattern** rather than random order. This mirrors how most interview preparation is structured.
 
-Repository Structure
-
-Problems are grouped by algorithmic pattern rather than random order. This mirrors how most interview preparation is structured.
-
+```
 leetcode-solutions
 │
 ├── arrays_hashing
@@ -32,62 +32,64 @@ leetcode-solutions
 ├── dynamic_programming
 ├── greedy
 └── backtracking
+```
+
 
 Each solution contains:
 
-Link to the problem
+- Link to the problem
+- Key idea / intuition
+- Time complexity
+- Space complexity
+- Clean implementation
 
-Key idea / intuition
+---
 
-Time complexity
+# Progress Tracker
 
-Space complexity
+| Difficulty | Solved |
+|------------|--------|
+| Easy       |        |
+| Medium     |        |
+| Hard       |        |
 
-Clean implementation
+Total Problems Solved: **0**
 
-Progress Tracker
-Difficulty	Solved
-Easy	
-Medium	
-Hard	
+---
 
-Total Problems Solved: 0
+# Problem List
 
-Problem List
-Problem	Difficulty	Topic	Solution
-Two Sum	Easy	Arrays / Hashing	Code
-
-Valid Parentheses	Easy	Stack	Code
-
-Daily Temperatures	Medium	Stack	Code
-
-3Sum	Medium	Two Pointers	Code
+| Problem | Difficulty | Topic | Solution |
+|--------|------------|-------|----------|
+| Two Sum | Easy | Arrays / Hashing | [Code](./arrays_hashing/two_sum.py) |
+| Valid Parentheses | Easy | Stack | [Code](./stack/valid_parentheses.py) |
+| Daily Temperatures | Medium | Stack | [Code](./stack/daily_temperatures.py) |
+| 3Sum | Medium | Two Pointers | [Code](./two_pointers/three_sum.py) |
 
 (Add rows as you solve problems)
 
-Study Approach
+---
 
-My preparation strategy focuses on mastering core algorithmic patterns, since most interview problems fall into a limited set of categories.
+# Study Approach
+
+My preparation strategy focuses on mastering **core algorithmic patterns**, since most interview problems fall into a limited set of categories.
 
 Key patterns include:
 
-Two Pointers
+- Two Pointers
+- Sliding Window
+- Monotonic Stack
+- Binary Search
+- DFS / BFS
+- Dynamic Programming
+- Greedy
+- Backtracking
 
-Sliding Window
+---
 
-Monotonic Stack
+# Example Solution Template
 
-Binary Search
-
-DFS / BFS
-
-Dynamic Programming
-
-Greedy
-
-Backtracking
-
-Example Solution Template
+```python
 # Problem: Daily Temperatures
 # Link: https://leetcode.com/problems/daily-temperatures/
 
@@ -112,14 +114,16 @@ class Solution:
             stack.append(i)
 
         return result
-Goals
+```
 
-Solve 300+ problems
+## Goals
 
-Master core algorithmic patterns
+- 🎯 Solve **300+ problems**
+- 🧠 Master **core algorithmic patterns**
+- ⏱ Reach **consistent medium-level problem solving under 30 minutes**
 
-Reach consistent medium-level problem solving under 30 minutes
+---
 
-LeetCode Profile
+## LeetCode Profile
 
-[HERE](https://leetcode.com/u/3EH6PSW9H2/)
+🔗[HERE](https://leetcode.com/u/3EH6PSW9H2/)
