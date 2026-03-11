@@ -66,6 +66,7 @@ Total Problems Solved: **0**
 | Daily Temperatures | Medium | Stack | [Code](./stack/daily_temperatures.py) |
 | Mimimum Window Substring | Hard | Sliding Window | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/sliding_window/minimum_window_substring.py) |
 | 3Sum | Medium | Two Pointers | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/two_pointers/three_sum.py) |
+| Maximum Depth of Binary Tree | Easy | Trees | [Code](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 
 
 ---
