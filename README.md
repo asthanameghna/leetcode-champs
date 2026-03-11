@@ -64,7 +64,7 @@ Total Problems Solved: **0**
 | Two Sum | Easy | Arrays / Hashing | [Code](./arrays_hashing/two_sum.py) |
 | Valid Parentheses | Easy | Stack | [Code](./stack/valid_parentheses.py) |
 | Daily Temperatures | Medium | Stack | [Code](./stack/daily_temperatures.py) |
-| 3Sum | Medium | Two Pointers | [Code](./two_pointers/three_sum.py) |
+| 3Sum | Medium | Two Pointers | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/two_pointers/three_sum.py) |
 
 (Add rows as you solve problems)
 
