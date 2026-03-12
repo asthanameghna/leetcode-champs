@@ -49,11 +49,11 @@ Each solution contains:
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       |   16   |
-| Medium     |   11   |
+| Easy       |   17   |
+| Medium     |   13   |
 | Hard       |   1    |
 
-Total Problems Solved: **0**
+Total Problems Solved: **31**
 
 ---
 
@@ -67,6 +67,8 @@ Total Problems Solved: **0**
 | Mimimum Window Substring | Hard | Sliding Window | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/sliding_window/minimum_window_substring.py) |
 | 3Sum | Medium | Two Pointers | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/two_pointers/three_sum.py) |
 | Maximum Depth of Binary Tree | Easy | Trees | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/trees/maximum_depth_of_binary_tree.py) |
+| Binary Tree Level Order Traversal | Medium | Trees | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/trees/binary_tree_level_order_traversal.py) |
+| Validate Binary Search Tree | Medium | Trees | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/trees/validate_binary_search_tree.py) |
 
 
 ---
