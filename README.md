@@ -50,10 +50,10 @@ Each solution contains:
 | Difficulty | Solved |
 |------------|--------|
 | Easy       |   17   |
-| Medium     |   13   |
+| Medium     |   15   |
 | Hard       |   1    |
 
-Total Problems Solved: **31**
+Total Problems Solved: **33**
 
 ---
 
@@ -61,14 +61,17 @@ Total Problems Solved: **31**
 
 | Problem | Difficulty | Topic | Solution |
 |--------|------------|-------|----------|
-| Two Sum | Easy | Arrays / Hashing | [Code](./arrays_hashing/two_sum.py) |
-| Valid Parentheses | Easy | Stack | [Code](./stack/valid_parentheses.py) |
-| Daily Temperatures | Medium | Stack | [Code](./stack/daily_temperatures.py) |
+| Two Sum | Easy | Arrays / Hashing | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/arrays/two_sum.py) |
+| Valid Parentheses | Easy | Stack | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/stack/valid_parentheses.py) |
+| Daily Temperatures | Medium | Stack | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/stack/daily_temperatures.py) |
 | Mimimum Window Substring | Hard | Sliding Window | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/sliding_window/minimum_window_substring.py) |
 | 3Sum | Medium | Two Pointers | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/two_pointers/three_sum.py) |
 | Maximum Depth of Binary Tree | Easy | Trees | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/trees/maximum_depth_of_binary_tree.py) |
 | Binary Tree Level Order Traversal | Medium | Trees | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/trees/binary_tree_level_order_traversal.py) |
 | Validate Binary Search Tree | Medium | Trees | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/trees/validate_binary_search_tree.py) |
+| Kth Largest Element in an Array | Medium | Heap | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/heap/kth_largest_element.py) |
+| Top K Frequent Elements | Medium | Heap | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main/heap/top_k_frequent_elements.py) |
+| K Closest Points to Origin | Medium | Heap | [Code](https://github.com/asthanameghna/leetcode-champs/blob/main//heap/k_closest_points_to_origin.py) |
 
 
 ---
